@@ -1,0 +1,83 @@
+v3
+
+train_old
+Validation Time Cost:  0.006620615652173915
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.686712999999827
+lane acc 0.8627678834798987 total acc 0.9798514657985748
+
+train_sk_attention
+Validation Time Cost:  0.006640145652173912
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.590628000000379
+lane acc 0.8602369039940937 total acc 0.9785548540864886
+
+train_sk_attention_add
+Validation Time Cost:  0.0065757991304347925
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.9879620000000955
+lane acc 0.8879362653058898 total acc 0.9784216458420012
+
+
+
+
+
+v4
+
+train_old
+Validation Time Cost:  0.007203095652173908
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.9496640000001548
+lane acc 0.8531503393993131 total acc 0.9816676038849593
+
+train_sk
+k=2
+Validation Time Cost:  0.007414154782608688
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.8046489999995288
+lane acc 0.845662841804911 total acc 0.9843497479262014
+k=4
+Validation Time Cost:  0.007461957826086963
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.75769600000001
+lane acc 0.845292525473708 total acc 0.9810953589816934
+k=8
+Validation Time Cost:  0.007612586956521751
+=> starting EVALUATING epoch 19 ..
+total cost time:  2.0249799999997435
+lane acc 0.8395903928989071 total acc 0.9809921566205535
+k=16
+Validation Time Cost:  0.007634703913043456
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.7018980000004262
+lane acc 0.8639962942137501 total acc 0.9802621218080403
+
+train_sk_2
+Validation Time Cost:  0.0026870843478260884
+=> starting EVALUATING epoch 19 ..
+total cost time:  0.7327469999999181
+lane acc 0.8966643832465039 total acc 0.98188751074686
+
+
+
+
+
+v5
+train_old
+Validation Time Cost:  0.0031839565217391353
+=> starting EVALUATING epoch 19 ..
+total cost time:  0.8898459999999488
+lane acc 0.9025760623571715 total acc 0.9727500513980264
+
+train_sk
+Validation Time Cost:  0.0031281600000000044
+=> starting EVALUATING epoch 19 ..
+total cost time:  1.102435000000014
+lane acc 0.9068124722885271 total acc 0.9716718609823565
+
+
+
+
+
+
+
